@@ -1,0 +1,87 @@
+# ambf_executable_path: "/home/amunawa2/ambf/bin/lin-x86_64/ambf_simulator"
+ambf_executable_path: "../../../ambf/bin/lin-x86_64/ambf_simulator"
+pupil_executable_path: "pupil_capture"
+recording_script_path: "../data_record.py"
+launch_file_path: "../../launch.yaml"
+recording_base_path: "../../../RedCap/Guidance/"
+
+volumes: [volume1, volume2, volume3, volume4, volume5, volume6, volume7, volume8, volume9, volume10]
+volume1:
+  icon_path: "None"
+  adf_path: ../../ADF/volume_256_RT143.yaml
+  sdf_path: /edt_grids_RT143_256/
+  unit: 0.02032409291371874
+  spacial_resolution: 0.192198mm # 0.096099mm
+  name: 'Anatomy a'
+
+volume2:
+  icon_path: "None"
+  adf_path: ../../ADF/volume_256_RT138.yaml
+  sdf_path: /edt_grids_RT138_256/
+  unit: 0.02033784922914108 
+  spacial_resolution: 0.192068 #0.096034mm
+  name: 'Anatomy b'
+
+volume3:
+  icon_path: "None"
+  adf_path: ../../ADF/volume_256_RT147.yaml
+  sdf_path: /edt_grids_RT147_256/
+  unit: 0.020330439579898486
+  spacial_resolution: 0.192138 #0.096069mm
+  name: 'Anatomy c'
+
+volume4:
+  icon_path: "None"
+  adf_path: ../../ADF/volume_256_LT143.yaml
+  sdf_path: /edt_grids_LT143_256/
+  unit: 0.0203000115581651
+  spacial_resolution: 0.192426 #0.096213mm
+  name: 'Anatomy d'
+
+volume5:
+  icon_path: "None"
+  adf_path: ../../ADF/volume_256_LT151.yaml
+  sdf_path: /edt_grids_LT151_256/
+  unit: 0.02044664929386031
+  spacial_resolution: 0.191046 #0.095523mm *2
+  name: 'Anatomy e'
+
+volume6:
+  icon_path: "None"
+  adf_path: ../../ADF/volume_256_LT144.yaml
+  sdf_path: /edt_grids_LT144_256/
+  unit: 0.02040968094156547
+  spacial_resolution: 0.191392 #0.095696mm *2
+  name: 'Anatomy f'
+
+volume7:
+  icon_path: "None"
+  adf_path: ../../ADF/volume_256_LT152.yaml
+  sdf_path: /edt_grids_LT152_256/
+  unit: 0.019833311331795233
+  spacial_resolution: 0.196954mm # 0.098477mm
+  name: 'Anatomy g'
+
+volume8:
+  icon_path: "None"
+  adf_path: ../../ADF/volume_256_LT169.yaml
+  sdf_path: /edt_grids_LT169_256/
+  unit: 0.02025369901412196
+  spacial_resolution: 0.192144 #0.096072mm
+  name: 'Anatomy h'
+
+volume9:
+  icon_path: "None"
+  adf_path: ../../ADF/volume_256_RT142.yaml
+  sdf_path: /edt_grids_RT142_256/
+  unit: 0.018953729875403644
+  spacial_resolution: 0.206094 #0.103047000000000mm
+  name: 'Anatomy i'
+
+volume10:
+  icon_path: "None"
+  adf_path: ../../ADF/volume_256_RT152.yaml
+  sdf_path: /edt_grids_RT152_256/
+  unit: 0.019725347418604277
+  spacial_resolution: 0.206094 #0.103047000000000mm
+  name: 'Anatomy j'

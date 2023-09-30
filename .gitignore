@@ -1,0 +1,15 @@
+*.~
+*.user
+~.old
+build/
+.idea/
+
+*.pyc
+
+*.autosave
+
+*.old
+
+*.blend1
+*.edt
+.vscode
