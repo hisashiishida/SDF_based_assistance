@@ -1,20 +1,20 @@
-# Drilling Simulator
-
+# Improving Surgical Situational Awareness with Signed Distance Field
 
 ![SDF architecture](./docs/SDF_guidance_resized.gif)
 
-### [News Coverage](https://techxplore.com/news/2021-12-virtual-reality-simulator-surgeons-skull-base.html) | [Paper](https://arxiv.org/abs/2111.08097) | [Video](https://youtu.be/36pYIt1KGs4)
-This repo provides a realistic virtual drilling simulator presented in our Best Paper at AE-CAI MICCAI 2021, [Virtual reality for synergistic surgical training and data generation](https://arxiv.org/abs/2111.08097).
+### [Paper](https://arxiv.org/abs/2111.08097)
+
+Framework to design and evaluate image-guided navigation systems for surgery presented in our paper at IROS 2023, [Improving Surgical Situational Awareness with Signed Distance Field: A Pilot Study in Virtual Reality](https://arxiv.org/abs/2111.08097).
 
 If you found this work helpful, please reference us using the following citation:
 ```
-@article{munawar2021virtual,
-  title={Virtual reality for synergistic surgical training and data generation},
-  author={Munawar, Adnan and Li, Zhaoshuo and Kunjam, Punit and Nagururu, Nimesh and Ding, Andy S and Kazanzides, Peter and Looi, Thomas and Creighton, Francis X and Taylor, Russell H and Unberath, Mathias},
-  journal={Computer Methods in Biomechanics and Biomedical Engineering: Imaging \& Visualization},
-  pages={1--9},
-  year={2021},
-  publisher={Taylor \& Francis}
+@misc{ishida2023improving,
+      title={Improving Surgical Situational Awareness with Signed Distance Field: A Pilot Study in Virtual Reality}, 
+      author={Hisashi Ishida and Juan Antonio Barragan and Adnan Munawar and Zhaoshuo Li and Andy Ding and Peter Kazanzides and Danielle Trakimas and Francis X. Creighton and Russell H. Taylor},
+      year={2023},
+      eprint={2303.01733},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC}
 }
 ```
 
