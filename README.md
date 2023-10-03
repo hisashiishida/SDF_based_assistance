@@ -2,7 +2,7 @@
 
 ![SDF architecture](./docs/SDF_guidance_resized.gif)
 
-### [Paper](https://arxiv.org/abs/2111.08097)
+### [Paper](https://arxiv.org/abs/2303.01733)
 
 Framework to design and evaluate image-guided navigation systems for surgery presented in our paper at IROS 2023, [Improving Surgical Situational Awareness with Signed Distance Field: A Pilot Study in Virtual Reality](https://arxiv.org/abs/2111.08097).
 
