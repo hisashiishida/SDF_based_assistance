@@ -1,6 +1,8 @@
 # Improving Surgical Situational Awareness with Signed Distance Field
 
-![SDF architecture](./docs/SDF_guidance_resized.gif)
+<p align=center>
+      <img src=./docs/SDF_guidance_resized.gif width=640>
+</p>
 
 ### [Paper](https://arxiv.org/abs/2303.01733)
 
